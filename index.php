@@ -5,7 +5,7 @@
 <h1>Developing PHP application</h1>
 
 <?php
-echo "ManjeshVersion: rev-2.0";
+echo "new versioon: rev-3.0";
 ?>
 
 </body>
