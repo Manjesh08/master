@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<h1>Developing PHP application</h1>
+<h1>code pipe line with github understood</h1>
 
 <?php
 echo "new versioon: rev-4.0";
